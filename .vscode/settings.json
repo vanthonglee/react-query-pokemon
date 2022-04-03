@@ -1,0 +1,7 @@
+{
+    "prettier.tabWidth": 4,
+    "editor.formatOnSave": true,
+    "prettier.printWidth": 80,
+    "prettier.useTabs": true,
+    "prettier.htmlWhitespaceSensitivity": "css"
+}
